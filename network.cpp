@@ -2,8 +2,6 @@
 #include "random.h"
 #include <algorithm>
 #include <iostream>
-#include <functional>
-
 
 void Network::resize(const size_t& t){
 	
